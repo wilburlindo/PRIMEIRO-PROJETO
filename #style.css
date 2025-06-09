@@ -127,3 +127,8 @@ section {
      background-color: #F1EDEF;
 
   }
+
+  .dispositivos_titulo {
+     font-size : 48px;
+     color: var(--branco-brincipal--)
+  }
